@@ -1,1 +1,93 @@
+@font-face {
+    font-family: grand;
+    src: url(../fonts/GrandHotel-Regular.otf);
+}
 
+.fstyle{
+    font-family: 'grand';
+    text-align: center;
+    font-size: 90px;
+    padding-top: 140px;
+}
+.h22{
+    font-family: 'grand';
+    padding-left: 15%;
+    padding-top: 10%;
+    font-size: 131px;
+}
+.h44{
+    padding-left: 15%;
+    font-size: 35px;
+}
+.buttn{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+    margin-left: 15%;
+    margin-top: 25px;
+    border-radius: 7px;
+    font-weight: 600;
+}
+.logo_margin{
+    margin-top: 45px;
+    margin-left: 50px;
+}
+
+.col_height{
+    height: 792px;
+}
+
+.img_height{
+    height: 712px;
+}
+
+.col1_head_img{
+    background-image: url(../images/header.png);
+}
+
+.col2_head_clr{
+    background-color: #2f2f2f;
+}
+.col2_head_img{
+    background-image: url(../images/title_background.png);
+}
+
+.r2_pb{
+    padding-bottom: 300px;
+}
+
+.r3_bg_img{
+    background-image: url(../images/orientalBackground.png);
+    background-size: cover;
+}
+
+/* .r3_pb{
+    padding-bottom: 5%;
+} */
+
+.text_orient{
+    color: #ffc200;
+    font-size: 120px;
+    font-family: 'grand';
+    padding-top:23%;
+}
+
+.btn_oriental{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+    /* margin-left: 15%; */
+    margin-top: 25px;
+    border-radius: 7px;
+    font-weight: 600;
+}
+
+.r4_bg_img{
+    background-image: url(../images/title_background.png);
+    padding-top: 4%;
+    width: 2048px;
+}
+
+.bg_colr{
+    background-color: #303030;
+}
